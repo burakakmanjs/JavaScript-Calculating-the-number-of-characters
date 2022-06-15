@@ -1,1 +1,1 @@
-# JavaScript-Calculating-the-number-of-characters
+# JavaScript Finding the Number of Input Characters
