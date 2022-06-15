@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    min-height: 100vh;
+    font-family: "Quicksand", sans-serif;
+}
+
+.container{
+    padding: 3rem;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+
+input{
+    width: 100%;
+    padding: 1rem;
+    font-size: 1.2rem;
+}
+
+#sayac{
+    font-size: 5rem;
+}
+
+button{
+    padding: 6px 20px;
+    font-size: 1.3rem;
+    cursor: pointer;
+    
+}
